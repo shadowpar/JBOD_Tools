@@ -1,2 +1,3 @@
-# JBOD_Tools
-Set of tools for simplifying JBOD operation with software RAID.
+# hancock_jbod_tools
+
+command line tools for administrating jbods.
